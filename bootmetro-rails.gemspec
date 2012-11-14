@@ -4,8 +4,8 @@ require File.expand_path('../lib/bootmetro-rails/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Sammy"]
   gem.email         = ["sammylintw@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "The redactor-rails gem integrates the Redactor editor"
+  gem.summary       = ""
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
